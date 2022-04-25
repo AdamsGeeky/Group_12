@@ -1,0 +1,25 @@
+{
+  "name": "group_12",
+  "version": "1.0.0",
+  "description": "side hutle intenship capson preoject Nodejs development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "startdev": "nodemon server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamsGeeky/Group_12.git"
+  },
+  "author": "ADAMU MUHAMMAD MUHAMMAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamsGeeky/Group_12/issues"
+  },
+  "homepage": "https://github.com/AdamsGeeky/Group_12#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
